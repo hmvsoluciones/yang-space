@@ -1,0 +1,50 @@
+{
+	"name": "Yang Space",
+	"short_name": "Yang Space",
+	"descripcion": "Servicios profesionales de podología",
+	"background_color":"#4DBCED",
+	"theme_color":"#4DBCED",
+	"orientation":"portrait",
+	"display":"standalone",
+	"start_url":"./index.html?utm_source=web_app_manifest",
+	"scope":"./",
+	"lang":"es-MX",
+	"icons":[
+		{
+	      "src": "./img/icons/logo36.png",
+	      "sizes": "36x36",
+	      "type": "image/png",
+	      "density": 0.75
+	    },
+	    {
+            "src": "./img/icons/logo48.png",
+	      "sizes": "48x48",
+	      "type": "image/png",
+	      "density": 1.0
+	    },
+	    {
+            "src": "./img/icons/logo72.png",
+	      "sizes": "72x72",
+	      "type": "image/png",
+	      "density": 1.5
+	    },
+	    {
+            "src": "./img/icons/logo96.png",
+	      "sizes": "96x96",
+	      "type": "image/png",
+	      "density": 2.0
+	    },
+	    {
+            "src": "./img/icons/logo144.png",
+	      "sizes": "144x144",
+	      "type": "image/png",
+	      "density": 3.0
+	    },
+	    {
+            "src": "./img/icons/logo192.png",
+	      "sizes": "192x192",
+	      "type": "image/png",
+	      "density": 4.0
+	    }
+	]
+}
